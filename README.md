@@ -1,7 +1,7 @@
-# Tower-of-Hanoi-Animation
+# 🗼 Tower-of-Hanoi-Animation
 A java console application to show the animation of solving Tower of Hanoi.
 
-## Rules of Tower of Hanoi
+## 🕹️ Rules of Tower of Hanoi
 - Move all the disks from one needle to another.
 - Only one disk could be moved at a time.
 - A larger disk must never be stacked above a smaller one.
